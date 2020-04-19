@@ -1,6 +1,8 @@
 # Join Zoom Meeting
 ### v1.1.0
 
+[![License: MIT](https://img.shields.io/github/license/aurooba/alfred-workflow-zoom-meetings)](https://opensource.org/licenses/MIT)
+
 **Download the latest version from the [releases](https://github.com/aurooba/alfred-workflow-zoom-meetings/releases) page.**
 
 This workflow allows you to do 3 things:
