@@ -11,4 +11,4 @@ This workflow allows you to do 3 things:
 
 ## Saving your Personal Zoom Meeting URL
 
-To add your Personal Zoom Meeting URL, open Alfred Preferences, navigate to Workflows, open the `Join Zoom Meeting` workflow, click on the `[x]` in the top right corner and add the value for the variable `personal`.
+To add your Personal Zoom Meeting URL, open Alfred Preferences, navigate to Workflows, open the `Join Zoom Meeting` workflow, click on the `[x]` in the top right corner and add your URL as the value for the variable `personal`.
