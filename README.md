@@ -1,4 +1,7 @@
 # Join Zoom Meeting
+### v1.1.0
+
+**Download the latest version from the [releases](https://github.com/aurooba/alfred-workflow-zoom-meetings/releases) page.**
 
 This workflow allows you to do 3 things:
 
