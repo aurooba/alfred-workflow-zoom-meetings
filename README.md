@@ -7,7 +7,7 @@
 
 This workflow allows you to do 3 things:
 
-1. Highlight a Zoom link and hold down `Ctrl+Cmd+Z` to launch it without a new browser tab opening.
+1. Highlight a Zoom link and hold down `Ctrl+Cmd+Z` to launch it without a new browser tab opening. (This is a suggested hotkey. Add this or another by going to Alfred Preferences, navigating to Workflows, and editing the 'Hotkey' in `Join Zoom Meeting`.
 2. Type in `zm` in Alfred to launch your personal zoom meeting and copy the link to clipboard to share.
 3. Type in `zm YOUR-ZOOM-LINK` to open any Zoom link from Alfred.
 
