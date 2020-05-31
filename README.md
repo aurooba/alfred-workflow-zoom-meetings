@@ -1,5 +1,5 @@
 # Join Zoom Meeting
-### v1.2.0
+### v1.2.1
 
 [![License: MIT](https://img.shields.io/github/license/aurooba/alfred-workflow-zoom-meetings)](https://opensource.org/licenses/MIT)
 
