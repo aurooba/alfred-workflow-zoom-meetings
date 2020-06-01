@@ -3,6 +3,8 @@
 
 [![License: MIT](https://img.shields.io/github/license/aurooba/alfred-workflow-zoom-meetings)](https://opensource.org/licenses/MIT)
 
+### Created by [Aurooba Ahmed](https://aurooba.com)
+
 **Download the latest version from the [releases](https://github.com/aurooba/alfred-workflow-zoom-meetings/releases) page.**
 
 This workflow allows you to do 3 things:
@@ -17,3 +19,6 @@ To add your Personal Zoom Meeting URL, open Alfred Preferences, navigate to Work
 
 ## Got an idea for an enhancement or a feature request?
 Create [an issue](https://github.com/aurooba/alfred-workflow-zoom-meetings/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFeature+Request%5D)! I welcome all ideas, and am excited about furter developing this workflow into something super useful. :)
+
+## Enjoy the workflow? Buy me a coffee!
+Coffee fuels my creations. If you enjoyed this workflow, consider [sponsoring a coffee or two](https://www.buymeacoffee.com/aurooba)!
