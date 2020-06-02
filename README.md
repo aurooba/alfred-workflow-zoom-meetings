@@ -18,7 +18,7 @@ This workflow allows you to do 3 things:
 To add your Personal Zoom Meeting URL, open Alfred Preferences, navigate to Workflows, open the `Join Zoom Meeting` workflow, click on the `[x]` in the top right corner and add your URL as the value for the variable `personal`.
 
 ## Got an idea for an enhancement or a feature request?
-Create [an issue](https://github.com/aurooba/alfred-workflow-zoom-meetings/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFeature+Request%5D)! I welcome all ideas, and am excited about furter developing this workflow into something super useful. :)
+Create [an issue](https://github.com/aurooba/alfred-workflow-zoom-meetings/issues/new?assignees=&labels=&template=feature_request.md&title=%5BFeature+Request%5D)! I welcome all ideas, and am excited about further developing this workflow into something super useful. :)
 
 ## Enjoy the workflow? Buy me a coffee!
 Coffee fuels my creations. If you enjoyed this workflow, consider [sponsoring a coffee or two](https://www.buymeacoffee.com/aurooba)!
